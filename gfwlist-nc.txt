@@ -4,6 +4,8 @@
 ! GFWList with EVERYTHING included
 ! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
 !
+! USE FOR MICHAEL SELF
+!
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 !
@@ -28,6 +30,7 @@
 ||pthome.net
 ||thisvid.com
 ||xtube.com
+||raw.githubusercontent.com
 ||githubusercontent.com
 ||tampermonkey.net
 ||gay-torrents.net
