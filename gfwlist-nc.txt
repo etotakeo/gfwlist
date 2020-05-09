@@ -17,7 +17,8 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/520 & URL Redirects---------
-!--ehentai
+!--customize
+||gaytorrent.ru
 ||gaytube.com
 ||github.com
 ||s3.amazonaws.com
