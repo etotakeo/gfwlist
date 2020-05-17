@@ -16,25 +16,31 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!---------403/451/520 & URL Redirects---------
-!--customize
-||gaytorrent.ru
+!--------Adult (Gay) used--------
+||gaytorrent.tw
 ||gaytube.com
-||github.com
-||s3.amazonaws.com
-||gaysexvideos.sexy
-||2dbook.com
-||4tern.com
 ||qafone.co
 ||qafone.org
 ||qafone.net
-||pthome.net
+||gay-torrents.net
+||gay-torrents.org
+||boyfriendtv.com
+||gaytorrent.ru
+||gaytube.com
 ||thisvid.com
 ||xtube.com
+||gaysexvideos.sexy
+
+!---------403/451/520 & URL Redirects---------
+!--customize
+||github.com
+||s3.amazonaws.com
+||2dbook.com
+||4tern.com
+||pthome.net
 ||raw.githubusercontent.com
 ||githubusercontent.com
 ||tampermonkey.net
-||gay-torrents.net
 ||qiong.ru
 ||zeronet.io
 |http://85.17.73.31/
