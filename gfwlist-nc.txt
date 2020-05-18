@@ -32,14 +32,17 @@
 ||gaysexvideos.sexy
 ||pornhub.com
 
+!---------customize---------
+||netflix.com
+||github.com
+||raw.githubusercontent.com
+
 !---------403/451/520 & URL Redirects---------
 !--customize
-||github.com
 ||s3.amazonaws.com
 ||2dbook.com
 ||4tern.com
 ||pthome.net
-||raw.githubusercontent.com
 ||githubusercontent.com
 ||tampermonkey.net
 ||qiong.ru
@@ -184,7 +187,6 @@ share.dmhy.org
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
-||netflix.com
 ||nflximg.com
 ||nflximg.net
 ||nflxext.com
