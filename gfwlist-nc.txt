@@ -16,24 +16,6 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!--------Adult (Gay) used--------
-||gaytorrent.tw
-||gaytube.com
-||qafone.co
-||qafone.org
-||qafone.net
-||gay-torrents.net
-||gay-torrents.org
-||boyfriendtv.com
-||gaytorrent.ru
-||gaytube.com
-||thisvid.com
-||xtube.com
-||gaysexvideos.sexy
-||pornhub.com
-||theporndude.com
-||mygaysites.com
-
 !---------customize---------
 ||netflix.com
 ||github.com
@@ -273,6 +255,62 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
+
+!--------Adult (Gay) used--------
+||gaytorrent.tw
+||gaytube.com
+||qafone.co
+||qafone.org
+||qafone.net
+||gay-torrents.net
+||gay-torrents.org
+||boyfriendtv.com
+||gaytorrent.ru
+||gaytube.com
+||thisvid.com
+||xtube.com
+||gaysexvideos.sexy
+||pornhub.com
+||theporndude.com
+||mygaysites.com
+||needgayporn.com
+||big-big-gay.com
+||zzgays.com
+||boyztube.com
+||thegay.com
+||goldgay.tv
+||eegay.com
+||me-gay.com
+||machotube.tv
+||gaymenring.com
+||icegaytube.tv
+||everydayporn.co
+||hdgayporno.com
+||onlygayvideo.com
+||gaybeeg.info
+||mymusclevideo.com
+||icegay.tv
+||gayporno.fm
+
+!--------Adult used--------
+||xhamster.com
+||xnxx.com
+||motherless.com
+||redtube.com
+||vporn.com
+||porn.com
+||sxyprn.com
+||eporner.com
+||hqporner.com
+||beeg.com
+||xtapes.to
+
+!--------EXTREME PORN used--------
+||crazyshit.com
+||theync.com
+||kaotic.com
+||xrares.com
+||cutscenes.net
 
 !##############General List Start###############
 !-------------------Pure IP---------------------
