@@ -1,10 +1,11 @@
-[AutoProxy 0.2.9.1-1]
+[AutoProxy 0.2.9.1-2]
 ! Checksum: UQaCI4FrxJx1GqUqyjSqBw
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
 ! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
 !
 ! USE FOR MICHAEL SELF
+! Update:20200623-01
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -26,7 +27,6 @@
 ||s3.amazonaws.com
 ||2dbook.com
 ||4tern.com
-||pthome.net
 ||githubusercontent.com
 ||tampermonkey.net
 ||qiong.ru
@@ -255,6 +255,12 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
+
+!--------PT site --------
+||leaguehd.com
+||pthome.net
+||haidan.video
+||hdarea.co
 
 !--------Adult (Gay) used--------
 ||gaytorrent.tw
