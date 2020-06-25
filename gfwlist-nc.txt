@@ -5,7 +5,7 @@
 ! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
 !
 ! USE FOR MICHAEL SELF
-! Update:20200623-01
+! Update:20200625-01
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -261,6 +261,8 @@ share.dmhy.org
 ||pthome.net
 ||haidan.video
 ||hdarea.co
+||hdstreet.club
+||hdfans.org
 
 !--------Adult (Gay) used--------
 ||gaytorrent.tw
