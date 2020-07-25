@@ -1,11 +1,11 @@
-[AutoProxy 0.2.9.1-4]
+[AutoProxy 0.2.9.1-5]
 ! Checksum: UQaCI4FrxJx1GqUqyjSqBw
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
 ! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
 !
 ! USE FOR MICHAEL SELF
-! Update:20200626-01
+! Update:20200725-1
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -22,6 +22,7 @@
 ||github.com
 ||raw.githubusercontent.com
 ||namesilo.com
+||resilio.com
 
 !---------403/451/520 & URL Redirects---------
 !--customize
