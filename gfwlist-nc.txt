@@ -23,6 +23,7 @@
 ||raw.githubusercontent.com
 ||namesilo.com
 ||resilio.com
+||github.io
 
 !---------403/451/520 & URL Redirects---------
 !--customize
