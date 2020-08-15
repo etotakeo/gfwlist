@@ -260,12 +260,12 @@ share.dmhy.org
 ||zozotown.com
 
 !--------PT site --------
-||leaguehd.com
-||pthome.net
-||haidan.video
-||hdarea.co
-||hdstreet.club
-||hdfans.org
+! leaguehd.com
+! pthome.net
+! haidan.video
+! hdarea.co
+! hdstreet.club
+! hdfans.org
 
 !--------Adult (Gay) used--------
 ||gaytorrent.tw
