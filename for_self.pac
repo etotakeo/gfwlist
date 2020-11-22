@@ -2187,6 +2187,9 @@ var domains = {
   "zuola.com": 1, 
   "zvereff.com": 1,
   "glosbe.com": 1, 
+  "9tz.cc": 1,
+  "iboy1069.com": 1,
+  "001069.xyz": 1,
   "zyzc9.com": 1
 };
 
