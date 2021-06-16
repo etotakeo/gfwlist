@@ -5,7 +5,7 @@
 ! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
 !
 ! USE FOR MICHAEL SELF
-! Update:20210428-2
+! Update:20210616-1
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -25,9 +25,6 @@
 ||resilio.com
 ||github.io
 ||offcloud.com
-||9tz.cc
-||iboy1069.com
-||001069.xyz
 ||euserv.com
 ||apkcombo.com
 ||yandex.com
@@ -37,6 +34,12 @@
 ||yandex.kz
 ||yandex.uz
 ||yandex.com.tr
+!---------design---------
+||dribbble.com
+!---------GV---------
+||9tz.cc
+||iboy1069.com
+||001069.xyz
 ||jsr9.com
 ||dyttxz.net
 !---------403/451/520 & URL Redirects---------
